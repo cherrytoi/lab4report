@@ -32,7 +32,7 @@ Next, I pressed Ctrl + X to exit the nano editor and <Y> to confirm to save chan
 
 Step 8
 ![Image](lab4step8.png)
-Keys pressed: <<up>> 3 times to go back to the compile command, <enter>, <up> 3 more times to go back to the run command, <enter>
+Keys pressed: <<'up'>> 3 times to go back to the compile command, <enter>, <up> 3 more times to go back to the run command, <enter>
 
 Step 9
 ![Image](lab4step8.png)
