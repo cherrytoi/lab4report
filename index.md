@@ -14,7 +14,7 @@ Keys pressed: git clone Ctrl+V <'enter'>
 
 Step 6
 ![Image](lab4step6.png)
-typed cd then lab 7 then <'enter'>
+typed cd to change the directory then lab7 then <'enter'>
   
 Copied and pasted the compile command for the JUnit testing on the Mac provided in the week 3 of the cs15lwi23 github then pressed <'enter'>
   
@@ -36,3 +36,4 @@ Keys pressed: <'up'> 3 times to go back to the compile command, <'enter'>, <'up'
 
 Step 9
 ![Image](lab4step8.png)
+Keys pressed: "git add -all" <'enter'>, 'git commit -m "Committed successfully"' to signify the commit message, <'enter'>, and "git push origin main" to push the change to my Github account.
