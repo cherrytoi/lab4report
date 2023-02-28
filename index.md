@@ -35,5 +35,5 @@ Step 8
 Keys pressed: <'up'> 3 times to go back to the compile command, <'enter'>, <'up'> 3 more times to go back to the run command, <'enter'>
 
 Step 9
-![Image](lab4step8.png)
+![Image](lab4step9.png)
 Keys pressed: "git add -all" <'enter'>, 'git commit -m "Committed successfully"' to signify the commit message, <'enter'>, and "git push origin main" to push the change to my Github account.
