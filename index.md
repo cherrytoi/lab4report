@@ -1,4 +1,4 @@
-Lab Report 4
+# Lab Report 4
 
 Step 4
 ![Image](lab4step4.png)
